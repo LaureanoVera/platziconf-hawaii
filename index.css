@@ -2,6 +2,15 @@
   color: #97c93e !important;
 }
 
+.btn-platzi {
+  background-color: #97c93e !important;
+  color: #fff !important;
+}
+
+.btn-platzi:hover {
+  background-color: #82ad36fa !important;
+}
+
 #header img {
   width: 80px;
 }
